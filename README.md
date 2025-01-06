@@ -1,3 +1,8 @@
+# Dashboard
+
+This project consist in a dashboard built  with Vue.js and TailwindCss
+
+
 # vue-project
 
 ## Project setup
